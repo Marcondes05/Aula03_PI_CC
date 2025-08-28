@@ -6,12 +6,12 @@ async function conectaDB(){
         console.error(`MONGODB_URI não configurada ou não encontrada`);
         process.exit(1);
     }
-
+    
     mongoose.set("strictQuery", true);
 
     try {
         await mongoose.connect(uri);
-        console.log(`Conectado ao MongoDb Atlas`);
+        console.log(`Conectado ao Mongodb Atlas`);
     } catch (error) {
         console.error(`Erro ao conectar ao Mongodb Atlas ${error}`);
         process.exit(1);
