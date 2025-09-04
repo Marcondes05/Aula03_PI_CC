@@ -40,3 +40,4 @@ app.use((err, req, res, next) => {
 app.listen(port, () => {
     console.log(`Servidor rodando na porta ${port}`);
 });
+
