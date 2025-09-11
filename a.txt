@@ -1,0 +1,4 @@
+MONGODB_URI="mongodb+srv://marcondesneto:AdgGwnt5S7ozhalj@cluster0.ggglegg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+USER="marcondesneto"
+PASS="AdgGwnt5S7ozhalj"
+AUTH_TOKEN = "32Yspf1liseIA3hE2m2q0ZHKWWe_6sFmnMG5C89wCzYDXVhpv"

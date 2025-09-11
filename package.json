@@ -18,8 +18,9 @@
   "homepage": "https://github.com/Marcondes05/Aula03_PI_CC#readme",
   "description": "",
   "dependencies": {
-    "dotenv": "^17.2.1",
+    "dotenv": "^17.2.2",
     "express": "^5.1.0",
-    "mongoose": "^8.17.2"
+    "mongoose": "^8.18.1",
+    "ngrok": "^5.0.0-beta.2"
   }
 }
